@@ -1,5 +1,5 @@
 # Udemy-Kurse
-Meine Udemy-Kurse gibt es mit dem mir größtmöglichen Rabatt für den gesamten Febraur mit diesem Code **WEB_DEV_1X1_FEB_24** 
+Meine Udemy-Kurse gibt es mit dem mir größtmöglichen Rabatt für den gesamten Februar mit diesem Code **WEB_DEV_1X1_FEB_24** 
 
 Der Code kann gerne weitergeleitet werden. 
 
