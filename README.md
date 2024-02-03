@@ -11,3 +11,5 @@ Hier die Links zu meinen Kursen einzeln mit dem Discount schon enthalten:
 - Flexbox-Layout in HTML/CSS
 [Link](https://www.udemy.com/course/flexbox-layout-in-htmlcss/?couponCode=WEB_DEV_1X1_FEB_24)
 
+- KI-gestützte Web-Apps mit JS und der OpenAI-API (ChatGPT)
+[Link](https://www.udemy.com/course/ki-gestuetzte-web-apps-mit-javascript-und-der-openai-api/?couponCode=WEB_DEV_1X1_FEB_24)
