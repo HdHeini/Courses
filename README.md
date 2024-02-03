@@ -1,5 +1,5 @@
 # Udemy-Kurse
-Meine Udemy-Kurse gibt es mit dem mir größtmöglichen Rabatt für den gesamten Februar bis 5.März 2024 mit diesem Code **WEB_DEV_1X1_FEB_24** 
+Meine Udemy-Kurse gibt es mit dem mir größtmöglichen Rabatt (ausgenommen evtl. Udemy-eigene Rabatte, auf die ich keinen Einfluss habe) für den gesamten Februar bis 5.März 2024 mit diesem Code **WEB_DEV_1X1_FEB_24** 
 
 Der Code kann gerne weitergeleitet werden. 
 
