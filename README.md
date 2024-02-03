@@ -21,4 +21,4 @@ Hier die Links zu meinen Kursen einzeln mit dem Discount schon enthalten:
 [Link](https://www.udemy.com/course/der-react-praxiskurs/?couponCode=WEB_DEV_1X1_FEB_24)
 
 - Moderne JavaScript-Funktionen ab ES6
-[Link(https://www.udemy.com/course/next-level-javascript-es6-fur-moderne-web-applikationen/?couponCode=WEB_DEV_1X1_FEB_24)]
+[Link](https://www.udemy.com/course/next-level-javascript-es6-fur-moderne-web-applikationen/?couponCode=WEB_DEV_1X1_FEB_24)
