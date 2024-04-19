@@ -1,11 +1,15 @@
 # Udemy-Kurse
-Meine Udemy-Kurse gibt es mit dem mir größtmöglichen Rabatt (ausgenommen evtl. Udemy-eigene Rabatte, auf die ich keinen Einfluss habe) für den gesamten Februar bis 5.März 2024 mit diesem Code **WEB_DEV_1X1_FEB_24** 
+Meine Udemy-Kurse gibt es mit dem mir größtmöglichen Rabatt (ausgenommen evtl. Udemy-eigene Rabatte, auf die ich keinen Einfluss habe) mit den untenstehenden Links.
 
-Der Code kann gerne weitergeleitet werden. 
+Der Code und die Links können gerne weitergeleitet werden. 
 
-Hier die Links zu meinen Kursen einzeln mit dem Discount schon enthalten:
+Aktueller Rabattcode: UDEMY_APR_MAY_24
 
-UDEMY_APR_MAY_24
+My Udemy courses are available with the biggest possible discount (except for Udemy's own discounts, over which I have no control) using the links below.
+
+You are welcome to forward the code and the links.
+
+Current discount code: UDEMY_APR_MAY_24
 
 - Chrome DevTools verstehen und verwenden
 [Link](https://www.udemy.com/course/chrome-devtools-verstehen-und-verwenden/?couponCode=UDEMY_APR_MAY_24)
